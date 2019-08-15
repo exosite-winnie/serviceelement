@@ -2,7 +2,7 @@
 print("Creating a new user")
 
 --#ENDPOINT GET /api/user/{userId}
-print("Fetch a given user" .. 'winnie2')
+print("Fetch a given user" .. 'winnie')
 
 --#ENDPOINT GET /winnie
-print('winnie4')
+print('winnie')
