@@ -5,4 +5,4 @@ print("Creating a new user")
 print("Fetch a given user" .. 'winnie')
 
 --#ENDPOINT GET /winnie
-print('winnie3')
+print('winnie4')
