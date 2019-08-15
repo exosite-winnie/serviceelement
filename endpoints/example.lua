@@ -1,8 +1,8 @@
 --#ENDPOINT POST /lightbulb/{sn}
-print("Creating a new user2")
+print("Creating a new user")
 
 --#ENDPOINT GET /api/user/{userId}
-print("Fetch a given user" .. request.parameters.userId)
+print("Fetch a given user" .. 'winnie')
 
 --#ENDPOINT GET /winnie
-print('winnie2')
+print('winnie3')
