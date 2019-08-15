@@ -1,4 +1,4 @@
---#ENDPOINT POST /api/user
+--#ENDPOINT POST /lightbulb/{sn}
 print("Creating a new user")
 
 --#ENDPOINT GET /api/user/{userId}
